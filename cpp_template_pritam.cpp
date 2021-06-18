@@ -54,9 +54,6 @@ void printVec(T &v,const string sep=" " ){
 
 void solve(){
 	//body
-	vi n = {1,2,3,4};
-	printVec(n,", ");
-	//cout<<"int test"<<endl;
 }
 //====================================
 
